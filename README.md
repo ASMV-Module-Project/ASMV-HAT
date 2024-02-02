@@ -24,7 +24,6 @@ To contribute or inquire, please engage in our [Forum](https://github.com/orgs/A
 | USB-Power   | Power In USB Port                            | 5V      | USB-Micro      | DC Power Only | -                  |
 | UART-H      | Hardware High-Speed UART                     | 3.3V    | JST-GH-6       | TTL           | 115200bps, 256000bps |
 | UART-S      | Software Slow Speed UART (9600 Baud max)     | 3.3V    | JST-GH-6       | TTL           | 9600bps            |
-| Power-In-USB| Power coming from internal ASMV-BEC          | 5.00V   | USB micro      |               |                    |
 | I2C-H       | I2C Hardware – Used by the RTC               | 3.3V    | JST-GH-4       | I2C           | up to 400 kHz      |
 | I2C-S       | I2C Software (gpiod) – Sonars & Sensors      | 3.3V    | JST-GH-4       | I2C           | up to 200 kHz      |
 | POWER IN    | External power supply – 6 to 60 V to 5V 2A   | 5V      | JST-RCY        | DC Power Only | @2A max            |
