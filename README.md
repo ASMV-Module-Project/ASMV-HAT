@@ -29,6 +29,7 @@ To contribute or inquire, please engage in our [Forum](https://github.com/orgs/A
 | I2C-S       | I2C Software (gpiod) – Sonars & Sensors      | 3.3V    | JST-GH-4       | I2C           | up to 200 kHz      |
 | POWER IN    | External power supply – 6 to 60 V to 5V 2A   | 5V      | JST-RCY        | DC Power Only | @2A max            |
 | UART-B      | UART-B / TTL - from CP2102 IC                | 3.3V    | JST-GH-6       | TTL           | Up to 256000bps    |
+| RTC         | Real Time Clock -  DS3231                    | 3.3V    | Dupont         | I2C           | -    |
 
 The ASMV-HAT is the cornerstone of your innovative projects, bridging the gap between idea and reality with its robust capabilities and adaptability.
 
